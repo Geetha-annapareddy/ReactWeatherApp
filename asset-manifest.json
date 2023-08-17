@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Geetha-annapareddy/ReactWeatherApp.git/static/css/main.238635d9.css",
-    "main.js": "/Geetha-annapareddy/ReactWeatherApp.git/static/js/main.ce093c2c.js",
-    "static/js/787.13d76ca7.chunk.js": "/Geetha-annapareddy/ReactWeatherApp.git/static/js/787.13d76ca7.chunk.js",
-    "static/media/bg1.jpeg": "/Geetha-annapareddy/ReactWeatherApp.git/static/media/bg1.01fd065b2fc9ec1d46e2.jpeg",
-    "index.html": "/Geetha-annapareddy/ReactWeatherApp.git/index.html",
-    "main.238635d9.css.map": "/Geetha-annapareddy/ReactWeatherApp.git/static/css/main.238635d9.css.map",
-    "main.ce093c2c.js.map": "/Geetha-annapareddy/ReactWeatherApp.git/static/js/main.ce093c2c.js.map",
-    "787.13d76ca7.chunk.js.map": "/Geetha-annapareddy/ReactWeatherApp.git/static/js/787.13d76ca7.chunk.js.map"
+    "main.css": "/ReactWeatherApp/static/css/main.7cae4f74.css",
+    "main.js": "/ReactWeatherApp/static/js/main.588b8fd7.js",
+    "static/js/787.13d76ca7.chunk.js": "/ReactWeatherApp/static/js/787.13d76ca7.chunk.js",
+    "static/media/bg1.jpeg": "/ReactWeatherApp/static/media/bg1.01fd065b2fc9ec1d46e2.jpeg",
+    "index.html": "/ReactWeatherApp/index.html",
+    "main.7cae4f74.css.map": "/ReactWeatherApp/static/css/main.7cae4f74.css.map",
+    "main.588b8fd7.js.map": "/ReactWeatherApp/static/js/main.588b8fd7.js.map",
+    "787.13d76ca7.chunk.js.map": "/ReactWeatherApp/static/js/787.13d76ca7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.238635d9.css",
-    "static/js/main.ce093c2c.js"
+    "static/css/main.7cae4f74.css",
+    "static/js/main.588b8fd7.js"
   ]
 }
